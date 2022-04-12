@@ -1,0 +1,23 @@
+body {
+    background:goldenrod;
+}
+
+p {
+    color:white;
+    border: 3px solid red;
+    padding: 20px;
+    margin: 100px;
+
+}
+
+h1,h2,h3 {
+    color:aqua;
+}
+
+.verde{ 
+    color: green;
+}
+
+#titulo{
+    color: red
+}
